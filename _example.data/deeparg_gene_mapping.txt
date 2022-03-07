@@ -1,0 +1,168 @@
+deeparg_genes	Freq	resistance_mechanism_V1	resistance_mechanism_V2	drug_type	beta_type
+macB	651	antibiotic efflux	antibiotic efflux	MLS	other
+macA	577	antibiotic efflux	antibiotic efflux	MLS	other
+TolC	566	antibiotic efflux	antibiotic efflux	multidrug	other
+mdtH	424	antibiotic efflux	antibiotic efflux	multidrug	other
+class_A	340	antibiotic inactivation	antibiotic inactivation	beta-lactam	class_A
+fosB	326	antibiotic inactivation	antibiotic inactivation	fosfomycin	other
+class_C	316	antibiotic inactivation	antibiotic inactivation	beta-lactam	class_C
+arnA	246	antibiotic target alteration	antibiotic target alteration	polymyxin	other
+bacA	229	antibiotic target alteration	antibiotic target alteration	bacitracin	other
+emrB	220	antibiotic efflux	antibiotic efflux	multidrug	other
+TEM-1	209	antibiotic inactivation	antibiotic inactivation	beta-lactam	TEM-1
+sdiA	204	antibiotic efflux	antibiotic efflux	unclassified	other
+multidrug_ABC_transporter	190	antibiotic efflux	antibiotic efflux	multidrug	other
+tetR	186	antibiotic target alteration;antibiotic efflux	multiple mechanisms	tetracycline	other
+
+
+Burkholderia_pseudomallei_Omp38	1	reduced permeability to antibiotic	reduced permeability to antibiotic	beta-lactam	Burkholderia_pseudomallei_Omp38
+BUT-1	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	BUT-1
+carA	1	antibiotic target protection	antibiotic target alteration	MLS	other
+CARB-12	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-12
+CARB-16	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-16
+CARB-17	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-17
+CARB-18	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-18
+CARB-19	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-19
+CARB-2	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-2
+CARB-20	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-20
+CARB-21	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-21
+CARB-22	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-22
+CARB-23	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-23
+CARB-3	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-3
+CARB-4	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-4
+CARB-5	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-5
+CARB-6	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-6
+CARB-7	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-7
+CARB-8	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-8
+CARB-9	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CARB-9
+carO	1	reduced permeability to antibiotic;resistance by absence	multiple mechanisms	beta-lactam	carO
+catB10	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+catP	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+catQ	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+catS	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+CatU	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+catV	1	antibiotic inactivation	antibiotic inactivation	phenicol	other
+CAZ-2	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CAZ-2
+CAZ-6	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CAZ-6
+CAZ-7	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CAZ-7
+ccrA	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	ccrA
+cdeA	1	antibiotic efflux	antibiotic efflux	multidrug	other
+ceoA	1	antibiotic efflux	antibiotic efflux	multidrug	other
+cephalosporinase_DHA-2	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	cephalosporinase_DHA-2
+CFE-1	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CFE-1
+CFE-2	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CFE-2
+cfrC	1	antibiotic target alteration	antibiotic target alteration	phenicol	other
+CfxA3	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CfxA3
+CfxA6	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CfxA6
+CGB-1	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CGB-1
+chloramphenicol_and_florfenicol_resistance	1	antibiotic efflux	antibiotic efflux	phenicol	other
+chrB	1	antibiotic target alteration	antibiotic target alteration	MLS	other
+Chryseobacterium_meningosepticum_BlaB	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	Chryseobacterium_meningosepticum_BlaB
+cipA	1	antibiotic target alteration	antibiotic target alteration	multidrug	other
+class_D	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	class_D
+clbA	1	antibiotic target alteration	antibiotic target alteration	phenicol	other
+clbB	1	antibiotic target alteration	antibiotic target alteration	phenicol	other
+clbC	1	antibiotic target alteration	antibiotic target alteration	phenicol	other
+Clostridium_perfringens_mprF	1	antibiotic target alteration	antibiotic target alteration	peptide	other
+cmeC	1	antibiotic efflux	antibiotic efflux	multidrug	other
+cmeR	1	antibiotic efflux	antibiotic efflux	multidrug	other
+cmrA	1	antibiotic efflux	antibiotic efflux	phenicol	other
+CMY-1	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-1
+CMY-10	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-10
+CMY-100	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-100
+CMY-102	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-102
+CMY-103	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-103
+CMY-104	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-104
+CMY-105	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-105
+CMY-108	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-108
+CMY-11	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-11
+CMY-110	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-110
+CMY-112	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-112
+CMY-113	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-113
+CMY-114	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-114
+CMY-115	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-115
+CMY-116	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-116
+CMY-117	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-117
+CMY-118	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-118
+CMY-119	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-119
+CMY-16	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-16
+CMY-18	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-18
+CMY-19	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-19
+CMY-22	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-22
+CMY-23	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-23
+CMY-25	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-25
+CMY-26	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-26
+CMY-29	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-29
+CMY-30	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-30
+CMY-32	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-32
+CMY-33	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-33
+CMY-37	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-37
+CMY-4	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-4
+CMY-40	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-40
+CMY-41	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-41
+CMY-43	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-43
+CMY-44	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-44
+CMY-46	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-46
+CMY-47	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-47
+CMY-48	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-48
+CMY-50	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-50
+CMY-51	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-51
+CMY-54	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-54
+CMY-55	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-55
+CMY-56	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-56
+CMY-58	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-58
+CMY-6	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-6
+CMY-60	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-60
+CMY-61	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-61
+CMY-62	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-62
+CMY-64	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-64
+CMY-65	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-65
+CMY-66	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-66
+CMY-67	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-67
+CMY-68	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-68
+CMY-69	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-69
+CMY-70	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-70
+CMY-71	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-71
+CMY-73	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-73
+CMY-75	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-75
+CMY-76	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-76
+CMY-77	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-77
+CMY-80	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-80
+CMY-81	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-81
+CMY-82	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-82
+CMY-83	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-83
+CMY-84	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-84
+CMY-85	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-85
+CMY-86	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-86
+CMY-87	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-87
+CMY-9	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-9
+CMY-93	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-93
+CMY-98	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-98
+CMY-99	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CMY-99
+cpaA	1	antibiotic inactivation	antibiotic inactivation	aminoglycoside	other
+CPS-1	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CPS-1
+cpxA	1	antibiotic efflux	antibiotic efflux	aminoglycoside:aminocoumarin	other
+CRP	1	antibiotic efflux	antibiotic efflux	multidrug	other
+CrpP	1	antibiotic inactivation	antibiotic inactivation	fluoroquinolone	other
+CTX-M-10	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-10
+CTX-M-101	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-101
+CTX-M-102	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-102
+CTX-M-103	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-103
+CTX-M-105	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-105
+CTX-M-106	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-106
+CTX-M-107	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-107
+CTX-M-108	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-108
+CTX-M-109	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-109
+CTX-M-110	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-110
+CTX-M-111	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-111
+CTX-M-112	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-112
+CTX-M-113	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-113
+CTX-M-114	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-114
+CTX-M-115	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-115
+CTX-M-12	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-12
+CTX-M-121	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-121
+CTX-M-122	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-122
+CTX-M-125	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-125
+CTX-M-126	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-126
+CTX-M-130	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-130
+CTX-M-131	1	antibiotic inactivation	antibiotic inactivation	beta-lactam	CTX-M-131
